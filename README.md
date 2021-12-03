@@ -6,7 +6,7 @@ Make sure to remove Synapse before starting, laptop won’t loose/forget the set
 16GB Memory Stick Required - Write with Win32DiskImager/Rufus on Windows or Etcher on Mac/Linux
 DL Here: https://bit.ly/liverazer-01 (2.5GB)
 
-———————————
+———————————--
 
 Hi everyone,
 
