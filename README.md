@@ -3,7 +3,7 @@ Pre-Built Linux USB Live Image to configure Razer Gaming Laptops/Hardware Lighti
 
 TL:DR - Boot this Linux Live USB to control Razer LED Lighting, pre-installed with everything you need!
 Make sure to remove Synapse before starting, laptop won’t loose/forget the settings unless you run Synapse (On my Razer Blade 15 (2020) Advanced even after multiple OS re-installs, Linux and Windows).
-16GB Memory Stick Required - Write with Win32DiskImager/Rufus on Windows or Etcher on Mac/Linux
+16GB Memory Stick Required - Write with Win32DiskImager/Rufus on Windows or Etcher on Mac/Linux.
 DL Here: https://bit.ly/liverazer-01 (2.5GB)
 
 —————————
